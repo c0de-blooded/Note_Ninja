@@ -1,8 +1,8 @@
 import os
 import textwrap
-
 from fpdf import FPDF
 from app import *
+
 
 def text_to_pdf(text, filename):
     a4_width_mm = 210

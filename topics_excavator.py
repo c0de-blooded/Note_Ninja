@@ -1,7 +1,6 @@
 import os
 
 import google.generativeai as genai
-import getTextPDF
 from dotenv import load_dotenv, find_dotenv
 from pathlib import Path
 
